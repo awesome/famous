@@ -1,0 +1,9 @@
+.autotest
+History.md
+Manifest.txt
+README.md
+Rakefile
+bin/famous
+famous.gemspec
+lib/famous.rb
+test/test_famous.rb
